@@ -6,13 +6,13 @@
 <code>python app.py </code>
 
 ## API Usage
-### API Base URL: 'http://mp-vehicle.herokuapp.com/regis-num/<registration-number>'
+### API Base URL: 'http://api-mp-vehicle.herokuapp.com/regis-num/<registration-number>'
 
 ## Endpoint
  GET: [`/regis-num/<registrationnum>`]
  
 #### Example
-Example usage: `GET http://mp-vehicle.herokuapp.com/regis-num/MP12MA1222` <br>
+Example usage: `GET http://api-mp-vehicle.herokuapp.com/regis-num/MP12MA1222` <br>
 
 Example result:
 ```json
