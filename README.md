@@ -1,18 +1,25 @@
 # MP Vehicle Search API
+<h4> NOTE: </h4>
 
+> * The repository & code is for educational purpose only. <br>
+> * The terms of MP Transport Website prohibits the use of automated tools such as any spider,
+robot, or automated searching or "scraping" tool) to monitor, access or copy any
+content from their website. <br>
+
+> * Use at your own risk.
 ##Usage
 
 <code>pip install -r requirements.txt</code><br>
 <code>python app.py </code>
 
 ## API Usage
-### API Base URL: 'http://api-mp-vehicle.herokuapp.com/regis-num/<registration-number>'
+### API Base URL: 'http://mp-vehicle.herokuapp.com/'
 
 ## Endpoint
  GET: [`/regis-num/<registrationnum>`]
  
 #### Example
-Example usage: `GET http://api-mp-vehicle.herokuapp.com/regis-num/MP12MA1222` <br>
+Example usage: `GET http://mp-vehicle.herokuapp.com/regis-num/MP12MA1222` <br>
 
 Example result:
 ```json
