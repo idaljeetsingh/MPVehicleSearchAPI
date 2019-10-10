@@ -7,7 +7,9 @@ robot, or automated searching or "scraping" tool) to monitor, access or copy any
 content from their website. <br>
 
 > * Use at your own risk.
-##Usage
+<br>
+>
+<h2> Usage </h2>
 
 <code>pip install -r requirements.txt</code><br>
 <code>python app.py </code>
